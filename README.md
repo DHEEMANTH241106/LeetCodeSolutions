@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/DHEEMANTH241106/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/DHEEMANTH241106/LeetCodeSolutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/DHEEMANTH241106/LeetCodeSolutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/DHEEMANTH241106/LeetCodeSolutions/tree/master/0326-power-of-three) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/DHEEMANTH241106/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/DHEEMANTH241106/LeetCodeSolutions/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
